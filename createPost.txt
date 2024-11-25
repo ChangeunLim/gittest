@@ -1,0 +1,2 @@
+create a post
+using post module
